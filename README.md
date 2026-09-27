@@ -20,5 +20,9 @@ This game is just about strategy and chasing. Mathematically, its possible to wi
 3. Deploy the project in the ZIP file into any local directory
 4. Import the project in the directory into the Godot
 
+## Play online
+
+https://mrk-fox.itch.io/rsquared
+
 ## Thank you...
 ...for stopping by. Carry on!
